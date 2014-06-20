@@ -1,0 +1,12 @@
+* Haskell Codebreaker
+
+An attempt to do the networking part of the Codebreaking Challenge
+from the June 2014 West London Hack Night Meetup.
+
+** Running
+
+Call `cabal run`.
+
+** License
+
+Copyright © 2014 Kris Jenkins
