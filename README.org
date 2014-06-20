@@ -5,7 +5,7 @@ from the June 2014 West London Hack Night Meetup.
 
 ** Running
 
-Call `cabal run`.
+Call =cabal run=.
 
 ** License
 
